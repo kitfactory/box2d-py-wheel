@@ -6,14 +6,12 @@ So I provide wheel files of box2d-py on this site.
 
 # Installation
 
-> pip install <wheel file>
+> pip install [wheel file]
 
 # Files
 
-Python 3.8
+[box2d_py-2.3.8-cp38-cp38m-win_amd64.whl](https://github.com/kitfactory/box2d-py-wheel/raw/master/box2d_py-2.3.8-cp38-cp38m-win_amd64.whl)
 
-Python 3.7
+[box2d_py-2.3.8-cp37-cp37m-win_amd64.whl](https://github.com/kitfactory/box2d-py-wheel/raw/master/box2d_py-2.3.8-cp37-cp37m-win_amd64.whl)
 
-Python 3.6
-
-
+[box2d_py-2.3.8-cp36-cp36m-win_amd64.whl](https://github.com/kitfactory/box2d-py-wheel/raw/master/box2d_py-2.3.8-cp36-cp36m-win_amd64.whl)
